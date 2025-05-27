@@ -1,0 +1,17 @@
+
+people-enricher
+
+
+.DS_Store
+
+
+.vscode/
+.idea/
+
+# Env files
+.env
+
+vendor/
+
+
+*.log
